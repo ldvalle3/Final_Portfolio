@@ -1,0 +1,3 @@
+#Mindful Sequencing - deployment module - 
+
+Link to deployment branch: https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module
