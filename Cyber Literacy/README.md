@@ -1,5 +1,5 @@
-#Mindfull Sequencing - Cyber Literacy - 
-[Link to Cyber Literacy branch](https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module)
+# Mindfull Sequencing - Cyber Literacy - 
+[Cyber Literacy Link](https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module)
 
 Users
 The users are primarily yoga instructors who interact with the application, as well as administrators managing user data and ensuring the overall security of the app.
