@@ -55,11 +55,10 @@ The final application provides yoga instructors with a tailored tool to efficien
   - HTML5, CSS3
 ### Database
   -  SQLalchemy
-## Competencies
 
 <img width="355" alt="Screenshot 2024-03-19 183037" src="https://github.com/user-attachments/assets/5ee7e0de-e9b8-4a5b-9e11-478c8ef81847">
 
-
+##Competencies
 ### JF 3.7: Can Implement Authentication to an API
 #### Implementation in the Yoga Sequencing Application:
 Authentication was a critical component of the backend module to ensure that only authorized users could access the application. This was achieved using OAuth and JWT (JSON Web Tokens).
