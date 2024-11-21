@@ -1,4 +1,4 @@
-<img width="146" alt="image" src="https://github.com/user-attachments/assets/a8adf1e6-94f5-4d27-b2ac-1c9a02048b6f">
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/a8adf1e6-94f5-4d27-b2ac-1c9a02048b6f">
 
 
 # Final_Portfolio
