@@ -1,9 +1,9 @@
 #Mindfull Sequencing App - Front End -
 
-Link to the repo: https://github.com/ldvalle3/YogaSequencingApp1/tree/front-end-module
+[Link to front end module](https://github.com/ldvalle3/YogaSequencingApp1/tree/front-end-module)
 
-High-Level Overview of the Front-End Module Purpose
-Users
+##High-Level Overview of the Front-End Module Purpose
+## Users
 The primary users of this module are yoga instructors who interact with the application to design, customize, and manage yoga sequences visually.
 
 Job It Performs for Users
