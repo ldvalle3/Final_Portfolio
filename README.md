@@ -21,24 +21,25 @@ All my projects were an expansion of my final project done in the Multiverse Boo
 
 For my front end module I infused javascript integration, added a drag and drop interface, and reorganized my pose library.
 
- - link to my front end module: 
+ - [Frontend module link](https://github.com/ldvalle3/YogaSequencingApp1/tree/front-end-module) 
 
 ### Back end Project
 
 For my backend module I included updates such as Oauth, JWT web tokens, validation/error handling, and task management.
 
- - link to my backend module.
+ - [Backend module link](https://github.com/ldvalle3/YogaSequencingApp1/tree/backend_module)
+
 
 ### Deployment Project
 
 For my deployment module I utilized automated builds, additional testing processes, deployment automations, test coverages, versioning, and tagging.
 
- - link to my deployment module: 
+ - [Link to deployment branch](https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module)
 
 ### Cyber literacy Project
 
 For my cyber literacy project I elevated the security of my app such as inut validation and santization, added passwords with certain level of security, implemented logging for user activiters, and security events. 
- - link to my elective module: 
+ - [Cyber Literacy Link](https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module)
 
 
 
