@@ -17,6 +17,8 @@ This repository is a collection of some of my key learnings during my 2023-2024 
 
 All my projects were an expansion of my final project done in the Multiverse Bootcamp. This was an application build as a platform for yoga instructors to create yoga sequences. I created a library of yoga poses that allows the users to grab any pose and create sequences that they can save. As a yoga instructor myself I was very passionate about creating a product that could actually be useful in my everyday life. 
 
+<img width="372" alt="Screenshot 2024-03-19 210410" src="https://github.com/user-attachments/assets/396bf85a-36e1-4342-933e-7fc54ec5c370">
+
 ### Front end project 
 
 For my front end module I infused javascript integration, added a drag and drop interface, and reorganized my pose library.
@@ -41,7 +43,7 @@ For my deployment module I utilized automated builds, additional testing process
 For my cyber literacy project I elevated the security of my app such as input validation and santization, added passwords with certain level of security, implemented logging for user activiters, and security events. 
  - [Cyber Literacy Link](https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module)
 
-
+![image](https://github.com/user-attachments/assets/dbbe39b9-6395-4fca-8b3c-213de87052d4)
 
 ## Acknowledgments
 I would like to express my deepest gratitude to Multiverse for providing me with the incredible opportunity to embark on this apprenticeship journey. This experience has been transformative, enabling me to grow into the software engineer I am today. A heartfelt thank you to my amazing coaches, Kat Law and David Todd, for their unwavering support, guidance, and encouragement throughout this journey. Your mentorship has been invaluable. I would also like to extend my appreciation to the entire Multiverse team for their dedication and efforts in creating such a supportive and enriching environment. I am truly grateful for this life-changing experience.
