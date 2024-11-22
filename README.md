@@ -10,12 +10,12 @@ This repository is a collection of some of my key learnings during my 2023-2024 
 - Link to portfolio website: https://github.com/ldvalle3/Final_Portfolio
 
  ## Portfolio Introduction
-  Hey my name is Lissette Valle and I first started my career in the world of science. I would say the closest thing that I would categorize myself as is a multipotentiolite. Which essentially means that I am passionate about way too many things. Although somehow I feel like all of my pursuits have led to this very endeavor as a Software Engineer. I studied biochemistry in college because I've always always navigated with a curious mind. I also constanty had art projects on the side which involved anything I could get my hands on. What has always motivated me is the endless avenues of learning certain career paths offered. Although I loved to do all these activities individually I never knew there was a path that could integrate everything that I love. Then I found software engineering.
+  Hey my name is Lissette Valle and I first started my career in the world of science. I would say the closest thing that I would categorize myself as is a multipotentialite. Which essentially means that I am passionate about way too many things. Although somehow I feel like all of my pursuits have led to this very endeavor as a Software Engineer. I studied biochemistry in college because I've always navigated with a curious mind. I also constanty had art projects on the side which involved anything I could get my hands on. What has always motivated me is the endless avenues of learning certain career paths offered. Although I loved to do all these activities individually I never knew there was a path that could integrate everything that I love. Then I found software engineering.
    My artistic background has honed my creativity, attention to detail, and problem-solving skills, while my science education has fostered a logical, analytical mindset and a curiosity to understand how things work. This combination of creativity and logic naturally led me to software engineering, where I’ve discovered the perfect way to blend these strengths by crafting innovative solutions and designing efficient, elegant code.
 
 ## Project Overviews 
 
-All my projects were an expansion of my final project done in the Multiverse Bootcamp. This was an application build as a platform for yoga instructors to ceate yoga sequences. I created a library of yog poses and allows the users to grab any pose and create sequences that they are then able to save. As a yoga instructor myself I was very passionate abut creating a product that could actually be useful in my everyday life. 
+All my projects were an expansion of my final project done in the Multiverse Bootcamp. This was an application build as a platform for yoga instructors to create yoga sequences. I created a library of yoga poses that allows the users to grab any pose and create sequences that they can save. As a yoga instructor myself I was very passionate about creating a product that could actually be useful in my everyday life. 
 
 ### Front end project 
 
@@ -38,7 +38,7 @@ For my deployment module I utilized automated builds, additional testing process
 
 ### Cyber literacy Project
 
-For my cyber literacy project I elevated the security of my app such as inut validation and santization, added passwords with certain level of security, implemented logging for user activiters, and security events. 
+For my cyber literacy project I elevated the security of my app such as input validation and santization, added passwords with certain level of security, implemented logging for user activiters, and security events. 
  - [Cyber Literacy Link](https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module)
 
 
