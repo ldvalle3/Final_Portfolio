@@ -2,7 +2,7 @@
 
 
 # Final Portfolio
-This repository is a collection of some of my key llearnings during my 2023-2024 apprenticeship at AirDNA
+This repository is a collection of some of my key learnings during my 2023-2024 apprenticeship at AirDNA
 
 ## Overview of Apprenticeship
 - Host Company: AirDNA
