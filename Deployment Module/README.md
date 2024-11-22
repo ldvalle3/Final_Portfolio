@@ -1,4 +1,4 @@
-# Mindful Sequencing - Deployment Module - 
+# Mindfull Sequencing - Deployment Module - 
 [Link to deployment branch](https://github.com/ldvalle3/YogaSequencingApp1/tree/deployment-module)
 
 ## High-Level Overview of the Deployment Module Purpose
