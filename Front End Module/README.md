@@ -21,6 +21,9 @@ The inspiration came from the need to provide yoga instructors with a user-frien
   - Drag-and-Drop Interface: Enables users to create sequences visually by dragging poses into the desired order.
   - Pose Library: A reorganized and categorized library for quicker navigation and selection of poses.
   - Dynamic JavaScript Integration: Enhances user interactions, offering a responsive and engaging experience.
+### Demo: 
+[Link to demo the interface of this product] (https://www.loom.com/share/b8b9e605f789491b8d15a3f7a437569c)
+
 ## STAR Interview Framework
 ### (Situation)
 Yoga instructors often use generic or manual tools to design their sequences, which can be time-consuming and inefficient. To address this, I developed a front-end interface with interactive features tailored for creating yoga flows.
