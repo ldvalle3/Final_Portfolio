@@ -23,7 +23,7 @@ The inspiration came from the need to provide yoga instructors with a user-frien
   - Dynamic JavaScript Integration: Enhances user interactions, offering a responsive and engaging experience.
 ## STAR Interview Framework
 ### (Situation)
-Yoga instructors often use generic or manual tools to design their sequences, which can be time-consuming and inefficient. To address this, I developed a front-end module with interactive features tailored for creating yoga flows.
+Yoga instructors often use generic or manual tools to design their sequences, which can be time-consuming and inefficient. To address this, I developed a front-end interface with interactive features tailored for creating yoga flows.
 
 ### (Task)
 My goal was to build a highly interactive and visually intuitive module for the yoga sequencing application. I aimed to make the user experience seamless and ensure the module complemented the backend features, focusing on usability and responsiveness.
