@@ -22,7 +22,7 @@ The inspiration came from the need to provide yoga instructors with a user-frien
   - Pose Library: A reorganized and categorized library for quicker navigation and selection of poses.
   - Dynamic JavaScript Integration: Enhances user interactions, offering a responsive and engaging experience.
 ### Demo: 
-[Link to demo the interface of this product] (https://www.loom.com/share/b8b9e605f789491b8d15a3f7a437569c)
+[Link to demo the interface of this product](https://www.loom.com/share/b8b9e605f789491b8d15a3f7a437569c)
 
 ## STAR Interview Framework
 ### (Situation)
